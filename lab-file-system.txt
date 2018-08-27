@@ -276,6 +276,7 @@ What command did you use?
 ==========
 28. What's a pathname?
 ----------
+word that represents a folder
 
 
 
