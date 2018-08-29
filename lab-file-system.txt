@@ -31,7 +31,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
-
+no output
 
 
 ==========
@@ -42,7 +42,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+-bash: $: command not found
 
 
 ==========
@@ -53,7 +53,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+-bash: $: command not found
 
 
 ==========
@@ -64,7 +64,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+no output
 
 
 ==========
@@ -75,6 +75,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
+no output
 
 
 
@@ -86,7 +87,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+no output
 
 
 ==========
@@ -97,7 +98,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+no output
 
  
 ==========
@@ -108,7 +109,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+no output
 
 
 ==========
@@ -121,7 +122,7 @@ $ ls -l
 Copy and paste the first two lines from the output into the space below.
 ----------
 
-
+no output
 
 ==========
 13. Type:
@@ -131,7 +132,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+no output
 
 
 ==========
@@ -142,7 +143,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+no outputno output
 
 
 ==========
@@ -153,7 +154,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+no output
 
 
 ==========
@@ -174,14 +175,14 @@ $ hostname
 
 Copy and paste the output into the space below.
 ----------
-
+no output
 
 
 ==========
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
+type pwd
 
 ==========
 17b. If you're not in the right directory, type the following command:
@@ -203,15 +204,14 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
-
-
+mkdir
 
 ==========
 19. Make another directory called aardvark.  
 
 Write the command you used to create the directory below:
 ----------
-
+mkdir aardvark
 
 
 ==========
@@ -231,6 +231,10 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
+mkdir 
+* foo should be the outermost directory
+* bar should be the inside foo
+* baz should be inside bar
 
 
 
@@ -239,7 +243,7 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd baz
 
 
 ==========
@@ -289,3 +293,4 @@ word that represents a folder
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+G608-08:mtec1002 student$
