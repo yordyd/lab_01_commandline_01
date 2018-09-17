@@ -18,7 +18,10 @@ $ ls<ENTER>
 Copy and paste the output of ls below.
 ----------
 
-
+Adlm				Documents			Movies				Public				bar.txt				foo.txt				mtec1003			pymel.log
+Adobe				Downloads			Music				QLData				chocolate			humvn.save			mtec1003-lab-03			xgen
+Applications			Library				New Unity Project		Things				doodoo				ipe.properties			mtec1003-lab-03.tar.gz
+Desktop				MPLABXProjects			Pictures			Wilson-MTEC2230-Fall2018	drills.py			isus				pwd
 
 ==========
 2a. Type: 
@@ -27,19 +30,19 @@ $ ls D<TAB>
 
 What happens?  Describe it below.
 ----------
-
+doodoo/    drills.py 
 
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
-
+Display all 2840 possibilities? (y or n)
 
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
-
+no output
 
 
 ==========
